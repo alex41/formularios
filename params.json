@@ -1,6 +1,6 @@
 {
   "name": "Formularios",
   "tagline": "problemas al subir imagenes desde http://localhost:8000/eventos/",
-  "body": "\r\nes una falla del navegador ",
+  "body": "# formularios\r\nproblemas al subir imagenes desde http://localhost:8000/eventos/",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
