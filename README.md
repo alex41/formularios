@@ -1,2 +1,2 @@
 # formularios
-problemas al subir imagenes desde el navegador prueba
+problemas al subir imagenes desde http://localhost:8000/eventos/
