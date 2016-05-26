@@ -8,7 +8,7 @@ class Registro(models.Model):
 	apellidos = models.CharField(max_length=200)
 	#comentarios = models.CharField(max_length = 50,widget = forms.Textare)
 	#imagen = models.ImageField(blank=True) 
-	description = models.TextField()
+	#description = models.TextField()
 
 	#picture = models.ImageField(blank=True)
 
