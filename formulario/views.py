@@ -11,7 +11,7 @@ from .models import Registro
 
 class RegistroCreate(CreateView):
 	model = Registro
-	success_url = reverse_lazy('list')
+	success_url = reverse_lazy('crear')
 	fields = ['nombres', 'apellidos', 'imagen', 'description']
 	
 
