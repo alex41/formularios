@@ -5,8 +5,8 @@ from django.core.urlresolvers import reverse_lazy
 from .models import Registro
 
 
-class RegistroList(ListView):
-	model = Registro 
+#class RegistroList(ListView):
+	#model = Registro 
 
 
 class RegistroCreate(CreateView):
